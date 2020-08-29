@@ -9,4 +9,4 @@ You can search by Name or type using the input on the top of the screen. To do s
 Clicking on one of the category's result will open a modal with the details of the selected item.
 
 ### HOW TO INSTALL
-Clone this repository and open a terminal into the resulting folder. Then type npm install. To test it on android type: react-native run-android.
+Clone this repository and open a terminal into the resulting folder. Then type npm install. To test it on android device type: react-native run-android.
