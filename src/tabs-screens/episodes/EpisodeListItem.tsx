@@ -9,7 +9,7 @@ interface Props {
   setModal: (state: boolean) => void
 }
 
-const CharacterListItem: React.FC<Props> = ({
+const EpisodeListItem: React.FC<Props> = ({
   episode,
   setSelectedEpisode,
   setModal,
@@ -33,7 +33,7 @@ const CharacterListItem: React.FC<Props> = ({
   )
 }
 
-export default React.memo(CharacterListItem)
+export default React.memo(EpisodeListItem)
 
 const styles = StyleSheet.create({
   container: {
