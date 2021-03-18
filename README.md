@@ -1,6 +1,3 @@
-# PUZZLE REACT NATIVE CHALLENGE
-
-
 ### HOW TO USE IT?
 Select one of the available filters on the bottom of the screen to get the results of the selected category. The results are scroll paginated.
 
